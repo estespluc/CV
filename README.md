@@ -37,7 +37,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 ## EDUCATION/TRAINING
 
-*Various Online courses*  
+*Online courses*  
  09-2022  __  01-2025_Online
 
 - HTML/CSS Introduction to coding.
