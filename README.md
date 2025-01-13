@@ -43,12 +43,12 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 ## EDUCATION/TRAINING
 
 ***Higher Technician in Web Application Development***
-(Level 5) (2000h)  
+(Level 5) (2000h)  [DAW](https://github.com/estespluc/CV/blob/main/Internship%20Programme%20Details.pdf)
  09-2022  __  current
 - Full-stack Web Development Government Education whose study areas combines front-end (HTML5, CSS3, JavaScript) and back-end (PHP, Java, MySQL, APIs) knowledge to create complete, functional web applications.
-- Object-oriented programming (OOP) 
-- Basic understanding of web hosting, servers, and network protocols  
-- Deployment and maintenance of applications on web servers 
+- Object-oriented programming (OOP). 
+- Basic understanding of web hosting, servers, and network protocols.  
+- Deployment and maintenance of applications on web servers. 
 - Principles of User Experience (UX) and Accessibility.
 
 
