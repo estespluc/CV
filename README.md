@@ -72,17 +72,20 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 Commercial and Residential Architectural Projects from inception through to completion (UK, India):  Design , Consultants Coordination, Client Presentations, 3D modelling and drawings production, Building Information Modelling Leader .
 
+
 **Project Architect**  
 *Pascalls & Watson (London)* 
  05-2018__ 10-2020
 
 Airport projects within latest technical stages (UK):   Leader of Delivering Phase 1 Building project, Client presentations, Technical Drawings Production, Site Visit, Consultants  and Subcontractor Coordination.
 
+
 **Architect**  
 *Benoy (London)* 
  10-2016__ 04-2018
 
 Retail and residential Architectural Projects (UK, Dubai):   Initial Opportunities Study, Developed and Technical Design, Liaising with Client, Drawings Production,Consultants Coordination, Client Presentations .
+
 
 **Architect  / Architectural Assistant**  
 *Several companies (Spain)* 
