@@ -82,19 +82,8 @@ Having completed my studies as a *Full-Stack Web Development Technician*, I am n
 
 [Internship Program Details](https://github.com/estespluc/CV/blob/main/Internship%20Programme%20Details.pdf)
 
-  
-      Este texto tiene espacios al inicio gracias a un bloque de código.
 
-   -   Texto con sangría dentro de una lista.
-    Segunda línea con la misma sangría.
-
-   Texto del primer bloque.
-
-
-Texto del segundo bloque (con dos líneas en blanco entre ellos).
  
- 
-  
 **Senior Architect**  
 *Kohn Pedersen Fox (London)* 
  04-2021__ present 
