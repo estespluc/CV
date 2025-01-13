@@ -45,7 +45,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 - Java Language Basics.
 - PHP Basics.
 
-*Basic Digital Marketing Course(120h)*  
+*Basic Digital Marketing Course*  
  03-2015__  Google Activate
 
 *Master in Architecture*  
