@@ -1,9 +1,10 @@
 # CV
-Technical professional with more than ten years of experience in a Non-Tech role within the UK and international work environment willing to switch to a career in Tech. 
+Motivated professional with over ten years of experience in a non-tech role within the UK and international environments, now transitioning to a career in software development.
 
-During these years I have gained broad experience in working in collaborative projects with high technical requirements, dealing with tight deadlines, working in a team, leading packages as well as coordinating and solving problems.  Besides I have been constantly learning new software skills along my profesional career and recently acquiring wider knowledge in coding,  languages and software engineering technologies through online content.
+During this time, I developed expertise in collaborative projects with technical complexity, managing tight deadlines, working in teams, coordinating and solving problems creatively.
+I have continually advanced my technical skills, including software proficiency throughout my career, and recently completed a two-year vocational education program in Web Application Development, where I gained knowledge in coding, programming languages, and software engineering technologies.
 
-This year, I am definitely keen on pushing my initial Tech skills to another level and starting my Tech career in a dynamic and collaborative environment.
+I am now eager to begin my career in tech through an internship program in a dynamic and collaborative environment where I can apply my skills, continue learning, and contribute meaningfully.
 
 
 ## SKILLS
@@ -37,15 +38,15 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 ## EDUCATION/TRAINING
 
-*Online courses*  
- 09-2022  __  01-2025_Online
+*Higher Technician in Web Application Development*
+(Level 5) (2000h)  
+ 09-2022  __  current
+- Full-stack Web Development Government Education whose study areas combines front-end (HTML5, CSS3, JavaScript) and back-end (PHP, Java, MySQL, APIs) knowledge to create complete, functional web applications.
+- Object-oriented programming (OOP) 
+- Basic understanding of web hosting, servers, and network protocols  
+- Deployment and maintenance of applications on web servers 
+- Principles of User Experience (UX) and Accessibility.
 
-- HTML/CSS Introduction to coding.
-- Javascript Introduction.
-- Python Introduction to coding.
-- MySQL Database Introduction.
-- Java Language Basics.
-- PHP Basics.
 
 *Basic Digital Marketing Course*  
  03-2015__  Google Activate
