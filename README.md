@@ -17,12 +17,20 @@ This year, I am definitely keen on pushing my initial Tech skills to another lev
 
 ## SOFTWARE COMPUTER SKILLS
 
-- HTML, CSS:        Basic
-- Javascript:       Basic
-- Java:             Basic
-- Python:           Basic
-- PHP:              Basic
-- MySQL:            Basic
+- **HTML, CSS**:        Basic
+- **Javascript**:       Basic
+- **Java**:             Basic
+- **Python**:           Basic
+- **PHP**:              Basic
+- **MySQL**:            Basic
+
+
+| Software       | Nivel         |
+|----------------|---------------|
+| HTML           | Básico        |
+| CSS            | Básico        |
+| Python         | Intermedio    |
+
 
 
 ## PERSONAL SKILLS
@@ -51,7 +59,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 *Master in Urban Planning and Natural Environment*  
  09-2011  __  05-2012  
 
-*Master Innovation in Architecture.Technology & Design*  
+*Master in Innovation in Architecture. Technology & Design*  
  10-2010__01-2013 
 
 
