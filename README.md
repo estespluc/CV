@@ -78,8 +78,12 @@ Having completed my studies as a *Full-Stack Web Development Technician*, I am n
 
 [Internship Program Details](https://github.com/estespluc/CV/blob/main/Internship%20Programme%20Details.pdf)
 
-
-
+  
+  
+   
+    
+ 
+  
 **Senior Architect**  
 *Kohn Pedersen Fox (London)* 
  04-2021__ present 
