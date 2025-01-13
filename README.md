@@ -32,7 +32,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 ## EDUCATION/TRAINING
 
-Various Online courses  
+*Various Online courses*
  09-2022  __  01-2025_Online
 
 - HTML/CSS Introduction to coding.
@@ -42,16 +42,41 @@ Various Online courses
 - Java Language Basics.
 - PHP Basics.
 
-Basic Digital Marketing Course(120h)  
+*Basic Digital Marketing Course(120h)*  
  03-2015__  Google Activate
 
-Master in Architecture  
+*Master in Architecture*  
  09-2001__09-2009
 
-Master in Urban Planning and Natural Environment  
+*Master in Urban Planning and Natural Environment*  
  09-2011  __  05-2012  
 
-Master Innovation in Architecture.Technology & Design  
+*Master Innovation in Architecture.Technology & Design*  
  10-2010__01-2013 
 
 
+## EXPERIENCE
+
+**Senior Architect**  
+*Kohn Pedersen Fox (London)* 
+ 04-2021__ present 
+
+Commercial and Residential Architectural Projects from inception through to completion (UK, India):  Design , Consultants Coordination, Client Presentations, 3D modelling and drawings production, Building Information Modelling Leader .
+
+**Project Architect**  
+*Pascalls & Watson (London)* 
+ 05-2018__ 10-2020
+
+Airport projects within latest technical stages (UK):   Leader of Delivering Phase 1 Building project, Client presentations, Technical Drawings Production, Site Visit, Consultants  and Subcontractor Coordination.
+
+**Architect**  
+*Benoy (London)* 
+ 10-2016__ 04-2018
+
+Retail and residential Architectural Projects (UK, Dubai):   Initial Opportunities Study, Developed and Technical Design, Liaising with Client, Drawings Production,Consultants Coordination, Client Presentations .
+
+**Architect  / Architectural Assistant**
+*Several companies (Spain)* 
+ 10-2009__ 09-2016
+
+Residential/Urban Planning/Transport/Cultural Architectural Projects (Spain, Lithuania, Taiwan, Morocco):  Images production, Developed and Technical Design, Delivering Drawings Packages/Technical Details and Specifications .
