@@ -21,14 +21,18 @@ I am now eager to begin my career in tech through an internship program in a dyn
 ## SOFTWARE COMPUTER SKILLS
 
 
-| Software       | Level        |
-|----------------|--------------|
-| **HTML, CSS**  | Basic        |
-| **Javascript** | Basic        |
-| **Java**       | Basic        |
-| **Python**     | Basic        |
-| **PHP**        | Basic        |
-| **MySQL**      | Basic        |
+| Software          |              |
+|----------------   |--------------|
+| **HTML, CSS**     | Medium       |
+| **Javascript**    | Medium       |
+| **PHP (Laravel)** | Medium       |
+| **MySQL**         | Medium       |
+| **XML,JSON**      | Medium       |
+| **JQuery**        | Basic        |
+| **Java**          | Basic        |
+| **Python**        | Basic        |
+| **BootStrap**     | Basic        |
+| **Linux**         | Basic        |
 
 
 ## PERSONAL SKILLS
