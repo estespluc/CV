@@ -70,6 +70,17 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 ## EXPERIENCE
 
+
+**Software Developer Internship**  
+ 
+ Currently looking for an internship
+
+Having completed my studies as a *Full-Stack Web Development Technician*, I am now seeking a company where I can undertake my internship program and contribute meaningfully while gaining hands-on experience.
+
+[Internship Program Details](https://github.com/estespluc/CV/blob/main/Internship%20Programme%20Details.pdf)
+
+
+
 **Senior Architect**  
 *Kohn Pedersen Fox (London)* 
  04-2021__ present 
