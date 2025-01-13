@@ -17,20 +17,15 @@ This year, I am definitely keen on pushing my initial Tech skills to another lev
 
 ## SOFTWARE COMPUTER SKILLS
 
-- **HTML, CSS**:        Basic
-- **Javascript**:       Basic
-- **Java**:             Basic
-- **Python**:           Basic
-- **PHP**:              Basic
-- **MySQL**:            Basic
 
-
-| Software       |          |
-|----------------|---------------|
+| Software       | Level        |
+|----------------|--------------|
 | **HTML, CSS**  | Basic        |
 | **Javascript** | Basic        |
 | **Java**       | Basic        |
-
+| **Python**     | Basic        |
+| **PHP**        | Basic        |
+| **MySQL**      | Basic        |
 
 
 ## PERSONAL SKILLS
