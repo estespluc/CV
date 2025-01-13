@@ -25,11 +25,10 @@ This year, I am definitely keen on pushing my initial Tech skills to another lev
 - **MySQL**:            Basic
 
 
-| Software       | Nivel         |
-|----------------|---------------|
-| HTML           | Básico        |
-| CSS            | Básico        |
-| Python         | Intermedio    |
+
+| **HTML, CSS**  | Basic        |
+| **Javascript** | Basic        |
+| **Java**       | Basic    |
 
 
 
