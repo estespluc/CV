@@ -38,7 +38,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 ## EDUCATION/TRAINING
 
-*Higher Technician in Web Application Development*
+***Higher Technician in Web Application Development***
 (Level 5) (2000h)  
  09-2022  __  current
 - Full-stack Web Development Government Education whose study areas combines front-end (HTML5, CSS3, JavaScript) and back-end (PHP, Java, MySQL, APIs) knowledge to create complete, functional web applications.
@@ -51,14 +51,17 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 *Basic Digital Marketing Course*  
  03-2015__  Google Activate
 
-*Master in Architecture*  
- 09-2001__09-2009
+*Master in Innovation in Architecture. Technology & Design*  
+ 10-2010__01-2013 
+
 
 *Master in Urban Planning and Natural Environment*  
  09-2011  __  05-2012  
 
-*Master in Innovation in Architecture. Technology & Design*  
- 10-2010__01-2013 
+*Master in Architecture*  
+ 09-2001__09-2009
+
+
 
 
 ## EXPERIENCE
