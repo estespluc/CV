@@ -48,7 +48,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 - Principles of User Experience (UX) and Accessibility.
 
 
-*Basic Digital Marketing Course*  
+***Basic Digital Marketing Course***  
  03-2015__  Google Activate
 
 *Master in Innovation in Architecture. Technology & Design*  
@@ -84,7 +84,7 @@ Airport projects within latest technical stages (UK):   Leader of Delivering Pha
 
 Retail and residential Architectural Projects (UK, Dubai):   Initial Opportunities Study, Developed and Technical Design, Liaising with Client, Drawings Production,Consultants Coordination, Client Presentations .
 
-**Architect  / Architectural Assistant**
+**Architect  / Architectural Assistant**  
 *Several companies (Spain)* 
  10-2009__ 09-2016
 
