@@ -84,7 +84,7 @@ Having completed my studies as a *Full-Stack Web Development Technician*, I am n
     
  
   
-#### **Senior Architect**  
+**Senior Architect**  
 *Kohn Pedersen Fox (London)* 
  04-2021__ present 
 
