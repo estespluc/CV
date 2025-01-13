@@ -72,8 +72,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 
 **Software Developer Internship**  
- 
- Currently looking for an internship
+ *Currently looking for an internship*
 
 Having completed my studies as a *Full-Stack Web Development Technician*, I am now seeking a company where I can undertake my internship program and contribute meaningfully while gaining hands-on experience.
 
