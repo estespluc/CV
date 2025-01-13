@@ -52,8 +52,12 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 - Principles of User Experience (UX) and Accessibility.
 
 
+
+
 ***Basic Digital Marketing Course***  
  03-2015__  Google Activate
+
+
 
 *Master in Innovation in Architecture. Technology & Design*  
  10-2010__01-2013 
@@ -79,34 +83,41 @@ Having completed my studies as a *Full-Stack Web Development Technician*, I am n
 [Internship Program Details](https://github.com/estespluc/CV/blob/main/Internship%20Programme%20Details.pdf)
 
   
-  
-   
-    
+      Este texto tiene espacios al inicio gracias a un bloque de código.
+
+   -   Texto con sangría dentro de una lista.
+    Segunda línea con la misma sangría.
+
+   Texto del primer bloque.
+
+
+Texto del segundo bloque (con dos líneas en blanco entre ellos).
+ 
  
   
 **Senior Architect**  
 *Kohn Pedersen Fox (London)* 
  04-2021__ present 
 
-Commercial and Residential Architectural Projects from inception through to completion (UK, India):  Design , Consultants Coordination, Client Presentations, 3D modelling and drawings production, Building Information Modelling Leader .
+    Commercial and Residential Architectural Projects from inception through to completion (UK, India):  Design , Consultants Coordination, Client Presentations, 3D modelling and drawings production, Building Information Modelling Leader .
 
 
 **Project Architect**  
 *Pascalls & Watson (London)* 
  05-2018__ 10-2020
 
-Airport projects within latest technical stages (UK):   Leader of Delivering Phase 1 Building project, Client presentations, Technical Drawings Production, Site Visit, Consultants  and Subcontractor Coordination.
+    Airport projects within latest technical stages (UK):   Leader of Delivering Phase 1 Building project, Client presentations, Technical Drawings Production, Site Visit, Consultants  and Subcontractor Coordination.
 
 
 **Architect**  
 *Benoy (London)* 
  10-2016__ 04-2018
 
-Retail and residential Architectural Projects (UK, Dubai):   Initial Opportunities Study, Developed and Technical Design, Liaising with Client, Drawings Production,Consultants Coordination, Client Presentations .
+    Retail and residential Architectural Projects (UK, Dubai):   Initial Opportunities Study, Developed and Technical Design, Liaising with Client, Drawings Production,Consultants Coordination, Client Presentations .
 
 
 **Architect  / Architectural Assistant**  
 *Several companies (Spain)* 
  10-2009__ 09-2016
 
-Residential/Urban Planning/Transport/Cultural Architectural Projects (Spain, Lithuania, Taiwan, Morocco):  Images production, Developed and Technical Design, Delivering Drawings Packages/Technical Details and Specifications .
+    Residential/Urban Planning/Transport/Cultural Architectural Projects (Spain, Lithuania, Taiwan, Morocco):  Images production, Developed and Technical Design, Delivering Drawings Packages/Technical Details and Specifications .
