@@ -71,7 +71,7 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 ## EXPERIENCE
 
 
-#### **Software Developer Internship**  
+**Software Developer Internship**  
  *Currently looking for an internship*
 
 Having completed my studies as a *Full-Stack Web Development Technician*, I am now seeking a company where I can undertake my internship program and contribute meaningfully while gaining hands-on experience.
@@ -91,21 +91,21 @@ Having completed my studies as a *Full-Stack Web Development Technician*, I am n
 Commercial and Residential Architectural Projects from inception through to completion (UK, India):  Design , Consultants Coordination, Client Presentations, 3D modelling and drawings production, Building Information Modelling Leader .
 
 
-#### **Project Architect**  
+**Project Architect**  
 *Pascalls & Watson (London)* 
  05-2018__ 10-2020
 
 Airport projects within latest technical stages (UK):   Leader of Delivering Phase 1 Building project, Client presentations, Technical Drawings Production, Site Visit, Consultants  and Subcontractor Coordination.
 
 
-#### **Architect**  
+**Architect**  
 *Benoy (London)* 
  10-2016__ 04-2018
 
 Retail and residential Architectural Projects (UK, Dubai):   Initial Opportunities Study, Developed and Technical Design, Liaising with Client, Drawings Production,Consultants Coordination, Client Presentations .
 
 
-#### **Architect  / Architectural Assistant**  
+**Architect  / Architectural Assistant**  
 *Several companies (Spain)* 
  10-2009__ 09-2016
 
