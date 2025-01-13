@@ -46,12 +46,12 @@ Basic Digital Marketing Course(120h)
  03-2015__  Google Activate
 
 Master in Architecture 
-09-2001__09-2009
+ 09-2001__09-2009
 
 Master in Urban Planning and Natural Environment 
-09-2011  __  05-2012  
+ 09-2011  __  05-2012  
 
 Master Innovation in Architecture.Technology & Design 
-10-2010__01-2013 
+ 10-2010__01-2013 
 
 
