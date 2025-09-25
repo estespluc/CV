@@ -59,14 +59,14 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 
 
 
-*Master in Innovation in Architecture. Technology & Design*  
+***Master in Innovation in Architecture. Technology & Design***  
  10-2010__01-2013 
 
 
-*Master in Urban Planning and Natural Environment*  
+***Master in Urban Planning and Natural Environment***  
  09-2011  __  05-2012  
 
-*Master in Architecture*  
+***Master in Architecture***  
  09-2001__09-2009
 
 
@@ -82,11 +82,11 @@ Enthusiastic / detail minded / team player / hard-working / resolute / analytica
 Internship programme where I gained fi rst professional experience in a tech company environment,
 working within an Agile/Scrum team.
 
-• Built full-stack applications with strong attention to develop to code structure and user experience.
-• Documented technical features, workfl ows, and project progress.
-• Presented project deliverables to clients, clarifying technical details in accessible language.
-• Assisted QA processes by reproducing issues, writing unit tests, and supporting bug resolution.
-• Used Azure DevOps and Git to organize tasks, follow sprint planning, and collaborate eff ectively.
+- Built full-stack applications with strong attention to develop to code structure and user experience.
+- Documented technical features, workfl ows, and project progress.
+- Presented project deliverables to clients, clarifying technical details in accessible language.
+- Assisted QA processes by reproducing issues, writing unit tests, and supporting bug resolution.
+- Used Azure DevOps and Git to organize tasks, follow sprint planning, and collaborate eff ectively.
 
 
 
@@ -95,17 +95,19 @@ working within an Agile/Scrum team.
 *Various Architectural Companies - (London) UK & (Sevilla/Córdoba) Spain* 
  10-2009__ present
  
-• Coordinated multidisciplinary teams across diff erent stages of design and construction, ensuring
+- Coordinated multidisciplinary teams across diff erent stages of design and construction, ensuring
 compliance with standards and consistent quality.
-• Managed client requests and clarifi ed technical requirements, transforming them into clear, user-
+
+- Managed client requests and clarifi ed technical requirements, transforming them into clear, user-
 friendly explanations, strengthening both customer service and internal communication.
-• Acted as fi rst point of contact for client and contractor queries, resolving issues quickly and ensuring
+
+- Acted as fi rst point of contact for client and contractor queries, resolving issues quickly and ensuring
 smooth communication between stakeholders.
-• Designed and implemented structured procedures for project handovers, documentation, and
+- Designed and implemented structured procedures for project handovers, documentation, and
 communication, creating standardized practices that improved eff iciency and reduced errors.
-• Produced and reviewed detailed technical documentation and drawings, ensuring accuracy,
+- Produced and reviewed detailed technical documentation and drawings, ensuring accuracy,
 compliance, and timely delivery under demanding deadlines.
-• Used project management platforms to monitor tasks, prioritize deadlines, and coordinate distributed
+- Used project management platforms to monitor tasks, prioritize deadlines, and coordinate distributed
 teams (Trello, Excel,...)
-• Balanced multiple large-scale projects simultaneously, developing strong problem-solving, organization,
+- Balanced multiple large-scale projects simultaneously, developing strong problem-solving, organization,
 and decision-making skills within a fast-paced technical environment.
